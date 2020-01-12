@@ -1,0 +1,2 @@
+Bu projede Spring REST servislerini kullanarak basit bir ekleme, çýkarma, güncelleme ve silme islemi gerçeklestirdim.
+Bu islemler icin Postman yardýmcý uygulamasý kullandým.
